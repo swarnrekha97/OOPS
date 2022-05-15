@@ -17,6 +17,7 @@ public class ChangeEmailMenu implements Menu {
 	@Override
 	public void printMenuHeader() {
 		// <write your code here>
+		System.out.println("Change menu header");
 	}
 
 }
