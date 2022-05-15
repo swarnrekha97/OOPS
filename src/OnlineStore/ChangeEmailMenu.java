@@ -11,6 +11,7 @@ public class ChangeEmailMenu implements Menu {
 	@Override
 	public void start() {
 		// <write your code here>
+		System.out.println("change email");
 	}
 
 	@Override
